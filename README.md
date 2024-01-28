@@ -80,6 +80,7 @@ wget -O $HOME/.pryzm/config/addrbook.json https://testnet-files.itrocket.net/pry
 <h1 align="center">Gerekli ayarlamalar</h1>
 
 Seedler - peerler - portlar - pruning ve indexer
+
 Not: indexer veya pruning opsiyoneldir - yeni başladıysanız umursamadan kullanın.
 
 ```console
