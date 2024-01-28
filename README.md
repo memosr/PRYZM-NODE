@@ -196,8 +196,11 @@ pryzmd tx staking create-validator \
 ```
 
 Moniker = Validatör İsminiz olsun
+
 İdentity eğer varsa keybase idiniz olsun yoksa o satırı silin
+
 Website yoksa "tırnakların" içini silin veya kendi github koyun
+
 From kısmında yukarıda verdiğiniz cüzdan adresini girin
 
 > Komut başarılı tamamlanınca tx hash verecek [burada](https://explorer.stavr.tech/Pryzm-Testnet) aratın ve success çıktısını aldınız hayırlı olsun.
